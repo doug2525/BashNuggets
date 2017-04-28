@@ -1,5 +1,5 @@
 #!/bin/bash
-### This script fetches the specified version of Golang and installs it. You may ned up with multiple PATH entries.
+### This script fetches the specified version of Golang and installs it. You may end up with multiple PATH entries.
 echo "Backing up ~/.profile to ~/.profile.backup... Use it in case of corrupted ~/.profile"
 cp -n ~/.profile ~/.profile.backup
 
