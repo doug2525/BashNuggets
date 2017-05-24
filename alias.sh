@@ -13,4 +13,5 @@ alias bc="brew cleanup"
 alias bp="brew prune"
 alias sr="sbt run"
 alias sc="sbt compile"
+alias gn="git clone"
 
