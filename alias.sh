@@ -14,4 +14,6 @@ alias bp="brew prune"
 alias sr="sbt run"
 alias sc="sbt compile"
 alias gn="git clone"
+alias gt="git stash"
+alias gtp="git stash pop"
 
