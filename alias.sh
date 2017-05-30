@@ -16,4 +16,5 @@ alias sc="sbt compile"
 alias gn="git clone"
 alias gt="git stash"
 alias gtp="git stash pop"
+alias bi="brew install"
 
