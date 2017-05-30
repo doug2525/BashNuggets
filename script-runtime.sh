@@ -2,7 +2,7 @@
 START=$(date +%s)
 ######### Put your script between #########
 
-######### these comment lines #########
+######### these comment lines #############
 END=$(date +%s)
 DIFF=$(( $END - $START ))
 DIFF=$(( $DIFF / 60 ))
