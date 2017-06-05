@@ -17,4 +17,7 @@ alias gn="git clone"
 alias gt="git stash"
 alias gtp="git stash pop"
 alias bi="brew install"
+alias tp="terraform plan"
+alias ta="terraform apply"
+
 
