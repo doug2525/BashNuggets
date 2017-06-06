@@ -19,5 +19,6 @@ alias gtp="git stash pop"
 alias bi="brew install"
 alias tp="terraform plan"
 alias ta="terraform apply"
+alias ts="terraform show"
 
 
