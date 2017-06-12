@@ -20,5 +20,9 @@ alias bi="brew install"
 alias tp="terraform plan"
 alias ta="terraform apply"
 alias ts="terraform show"
+alias bn="brew uninstall"
+alias bf="brew info"
+alias bs="brew search"
+
 
 
