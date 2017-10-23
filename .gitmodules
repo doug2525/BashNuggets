@@ -1,0 +1,3 @@
+[submodule "stiymi"]
+	path = stiymi
+	url = git@github.com:cortics/stiymi.git
