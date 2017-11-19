@@ -14,6 +14,7 @@ alias gn="git clone"
 alias gt="git stash"
 alias gtp="git stash pop"
 alias gk="git checkout"
+alias gg="git tag"
 
 
 alias bu="brew upgrade"
