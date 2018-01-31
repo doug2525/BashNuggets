@@ -30,6 +30,7 @@ alias bn="brew uninstall"
 alias bf="brew info"
 alias bs="brew search"
 alias bd="brew doctor"
-
+alias gcu="gcloud components update"
+alias gcl="gcloud components list"
 
 
