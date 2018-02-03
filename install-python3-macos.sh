@@ -1,1 +1,1 @@
-brew install python3 && brew postinstall python3 
+sudo brew install python3 && brew postinstall python3 
