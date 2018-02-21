@@ -13,13 +13,13 @@ line=$1
 read -rp $'What environment?: \n1) Dev \n2) Non-Prod \n3) Prod\n' i
 case $i in
 
-        1) address=http://kafka-sr-dev.monsanto.com:8086
+        1) address=
            env=Dev
         ;;
-        2) address=http://kafka-np-sr.monsanto.com:8081
-           env=Non=Prod
+        2) address=
+           env=Non-Prod
         ;;
-        3) address=http://kafka-sr.monsanto.com:8081
+        3) address=
            env=Prod
         ;;
 esac
